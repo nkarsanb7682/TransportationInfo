@@ -1,0 +1,7 @@
+# Front End
+fe-transportation-info/node_modules
+fe-transportation-info/.next
+
+# Back End
+be-transportation-info/.gradle
+be-transportation-info/.idea
